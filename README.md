@@ -18,4 +18,5 @@ M. K. Tippett mkt14@columbia.edu
     1. Outline due a month or so before the end of the term
     2. Project presentations last week or so of class. 
     3. Final report due day of scheduled final.
+    4. Reproduce/extend published work – original research (depending on ambition)
     
