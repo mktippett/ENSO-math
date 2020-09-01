@@ -9,8 +9,8 @@ M. K. Tippett mkt14@columbia.edu
 
 ### Structure
 1. Two lectures per week. Reading assignments.
-    1. Tuesday -- Theory (lecture, reading discusion)
-    2. Thursday -- Practical data activity (introduction to the homework)
+    1. Theory (lecture, reading discusion)
+    2. Practical data activity (introduction to the homework)
 2. Homework approximately weekly
     1. Usually in the form of a Jupyter notebook
     2. Turn in using github or something
@@ -18,5 +18,5 @@ M. K. Tippett mkt14@columbia.edu
     1. Outline due a month or so before the end of the term
     2. Project presentations last week or so of class. 
     3. Final report due day of scheduled final.
-    4. Reproduce/extend published work – original research (depending on ambition)
+    4. Reproduce/extend published work – original research (depending on ambition)    
     
