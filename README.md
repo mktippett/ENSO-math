@@ -13,7 +13,7 @@ M. K. Tippett mkt14@columbia.edu
     2. Thursday -- Practical data activity (introduction to the homework)
 2. Homework approximately weekly
     1. Usually in the form of a Jupyter notebook
-    2. Turn in using github 
+    2. Turn in using github or something
 3. Final project
     1. Outline due a month or so before the end of the term
     2. Project presentations last week or so of class. 
