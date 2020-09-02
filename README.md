@@ -20,7 +20,7 @@ M. K. Tippett mkt14@columbia.edu
 4. ENSO, math, and python material  will be self contained. 
 
 ### Structure
-1. Two lectures per week. Reading assignments.
+1. Two lectures per week. Reading assignments and homework.
     1. Theory (lecture, reading discusion)
     2. Practical data activity (introduction to the homework)
 2. Homework approximately weekly
