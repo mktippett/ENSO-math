@@ -14,8 +14,8 @@ dependencies:
   - dask
   - statsmodels
   - scipy
-  - xarray
-  - matplotlib
+  - xarray=0.16
+  - matplotlib=3.2.2
   - numpy
   - jupyterlab
   - netcdf4
@@ -36,6 +36,6 @@ dependencies:
   - jupyter_nbextensions_configurator
   - jupyter_contrib_nbextensions
   - pandas-datareader
-  - cartopy
+  - cartopy=0.17
   - libnetcdf=4.6.2
 prefix: /Users/tippett/miniconda3/envs/pangeo
