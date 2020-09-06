@@ -27,12 +27,15 @@ M. K. Tippett mkt14@columbia.edu
     1. Usually in the form of a Jupyter notebook
     2. Turn in using github or something
 3. Final project
-    1. Outline due a month or so before the end of the term
-    2. Project presentations last week or so of class. 
-    3. Final report due day of scheduled final.
-    4. Reproduce/extend published work – original research (depending on ambition)
+    1. Reproduce/extend published work – original research (depending on ambition)
+    1. Project proposals due Nov 5.
+    2. Detailed project outlines due Nov 24.   
+    3. Week of Dec 8: In class project presentations.
+    3. Project reports due Thursday, December 17.
+    
+Grading: 40% homework, 20% participation, 40% project.
 
-### Resources
+### Some resources
 1. The [ENSO blog](https://www.climate.gov/news-features/department/enso-blog).
 2. [The El Niño-Southern oscillation phenomenon](https://clio.columbia.edu/catalog/9073864) by Edward S. Sarachik and Mark A. Cane. 2010.
 3. [An Introduction to the Dynamics of El Nino and the Southern Oscillation](https://www.elsevier.com/books/an-introduction-to-the-dynamics-of-el-nino-and-the-southern-oscillation/clarke/978-0-08-056083-0) by Allen Clarke. 2008.
