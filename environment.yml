@@ -1,0 +1,41 @@
+name: pangeo2
+channels:
+  - defaults
+  - conda-forge
+  - conda-forge/label/renamed
+dependencies:
+  - jupyter
+  - bottleneck
+  - seaborn
+  - wrf-python
+  - pandas=1.0.5
+  - notebook
+  - pip
+  - dask
+  - statsmodels
+  - scipy
+  - xarray=0.16
+  - matplotlib=3.2.2
+  - numpy
+  - jupyterlab
+  - netcdf4
+  - python
+  - scikit-learn
+  - eofs
+  - mesalib
+  - cython
+  - hvplot
+  - xlrd
+  - cmocean
+  - nc_time_axis
+  - xesmf
+  - tqdm
+  - xlwt
+  - openpyxl
+  - rise
+  - jupyter_nbextensions_configurator
+  - jupyter_contrib_nbextensions
+  - pandas-datareader
+  - cartopy=0.17
+  - libnetcdf=4.6.2
+prefix: /Users/tippett/miniconda3/envs/pangeo
