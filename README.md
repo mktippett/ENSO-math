@@ -43,7 +43,14 @@ Grading: 40% homework, 20% participation, 40% project.
 4. [Nonlinear physical oceanography: a dynamical systems approach to the large scale ocean circulation and El Niño](https://clio.columbia.edu/catalog/7769085) by  Henk A. Dijkstra
 5. Python information is everywhere. Notebooks on python, numpy, and matlibplot from APAM Profs. Mandli and Speigelman https://github.com/mspieg/intro-numerical-methods
 
+Doesn't work
+Run in a pango binder [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/mktippett/ENSO-math-environment/master?urlpath=git-pull?repo=https://github.com/mktippett/ENSO-math)
+
+Works slowly
 Run in a pango binder [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/mktippett/ENSO-math/master)
+
+
+
 
 
 
