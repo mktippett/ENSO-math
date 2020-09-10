@@ -19,7 +19,7 @@ dependencies:
   - numpy
   - jupyterlab
   - netcdf4
-  - python
+  - python=3.6
   - scikit-learn
   - eofs
   - mesalib
