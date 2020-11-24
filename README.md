@@ -28,11 +28,22 @@ M. K. Tippett mkt14@columbia.edu
     2. Turn in using github or something
 3. Final project
     1. Reproduce/extend published work – original research (depending on ambition)
-    1. Project proposals due Nov 5.
-    2. Detailed project outlines due Nov 24.   
-    3. Week of Dec 8: In class project presentations.
-    3. Project reports due Thursday, December 17.
-    
+    2. Project proposals due Nov 6.
+    3. "Plot the data" due Nov. 21.
+    4. Detailed project outlines due Dec 3. Include:
+        - Brief data set descriptions
+        - Scientific question and what calculations will address them
+    5. Dec 10: In class project presentations. 90 minutes. 11:30am - 1pm.
+    6. Project reports due Thursday, December 17.
+        - Background. What has been done before? What are you doing? Extending? Reproducing?
+        - Data and methods
+            - Data sets
+            - Analysis
+        - Results 
+        - Conclusions
+        - References
+        - 4 - 6 pages (text either in notebook or separate pdf). Notebook with all analysis + figures.
+        
 Grading: 40% homework, 20% participation, 40% project.
 
 ### Some resources
